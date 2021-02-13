@@ -1,0 +1,26 @@
+{
+  "name": "wordbook",
+  "version": "1.0.0",
+  "description": "Words memo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omdean/wordbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omdean/wordbook/issues"
+  },
+  "homepage": "https://github.com/omdean/wordbook#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.4"
+  }
+}

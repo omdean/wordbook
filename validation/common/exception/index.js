@@ -1,10 +1,9 @@
 'use strict';
 
-class Exception extends Error {
-  constructor(name, message) {
-    super(message);
-    this.name = name;
-  }
-}
+const BaseException = require('./baseException');
+const InvalidFormatException = require('./invalidFormatException');
 
-module.exports = Exception;
+module.exports = {
+  BaseException,
+  InvalidFormatException
+};

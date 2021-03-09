@@ -11,6 +11,7 @@
   - straightforward
   - pre-planning
   - bi-weekly
+  - priority
 - Testing case
   - scenario
 - Jira
@@ -23,3 +24,4 @@
   - 拖放，前端UI沟通时会使用到
 - grooming meeting
 - Backlog Grooming
+- Agile coach ?

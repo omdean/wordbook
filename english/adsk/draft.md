@@ -12,8 +12,13 @@
   - pre-planning
   - bi-weekly
   - priority
+  - 
+  - infrastructure
+  - ambiguous
+    - 模棱两可的;含混不清的;不明确的
 - Testing case
   - scenario
+  - regression testing
 - Jira
   - epic
   - severity
@@ -25,3 +30,4 @@
 - grooming meeting
 - Backlog Grooming
 - Agile coach ?
+- common sense

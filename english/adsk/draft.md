@@ -22,6 +22,7 @@
 - Jira
   - epic
   - severity
+  - typos
 
 ### communication
 - go ahead
@@ -31,3 +32,5 @@
 - Backlog Grooming
 - Agile coach ?
 - common sense
+- T-shirt sizing
+  - project estimation technique

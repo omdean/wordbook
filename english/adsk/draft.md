@@ -23,6 +23,8 @@
   - epic
   - severity
   - typos
+  - GDPR
+    - General Data Protection Regulation
 
 ### communication
 - go ahead

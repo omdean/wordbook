@@ -25,6 +25,7 @@
   - typos
   - GDPR
     - General Data Protection Regulation
+  - minor tweak
 
 ### communication
 - go ahead
@@ -36,3 +37,5 @@
 - common sense
 - T-shirt sizing
   - project estimation technique
+- grooming out
+  - 梳理
